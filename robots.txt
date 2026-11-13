@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-54369-johnson-attorneys-group-injury-accidents/sitemap.xml
