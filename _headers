@@ -1,0 +1,17 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/*.webp
+  Content-Type: image/webp
+
+/*.ico
+  Content-Type: image/x-icon
+
+/*.html
+  Content-Type: text/html; charset=utf-8
+
+/*.xml
+  Content-Type: application/xml
+
+/*.txt
+  Content-Type: text/plain
